@@ -18,7 +18,7 @@
 <div>after is direct you to home page .<br>
   <h4>Home page</h4>
 At home page , if you are user then you can see doctor available </div>
-<img src = "https://github.com/gaurv6944/medicare_app/assets/117128615/6b7903e7-9386-4b29-91ca-79e3f0027fc6"
+<img src = 'https://github.com/gaurv6944/medicare_app/assets/117128615/6b7903e7-9386-4b29-91ca-79e3f0027fc6'
 />
 <h4>Apply for doctor</h4>
 <div>you can apply for doctor rele </div>
