@@ -9,4 +9,4 @@
 </div>
 
 <h4>Register page</h4>
-![image](https://github.com/gaurv6944/medicare_app/assets/117128615/3a5a4d2e-1bb1-42e7-8fa4-b6a8599a64ff)
+<img src = 'https://github.com/gaurv6944/medicare_app/assets/117128615/3a5a4d2e-1bb1-42e7-8fa4-b6a8599a64ff'/>
