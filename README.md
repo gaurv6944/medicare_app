@@ -25,7 +25,7 @@ At home page , if you are user then you can see doctor available </div>
 <img src = 'https://github.com/gaurv6944/medicare_app/assets/117128615/6b7903e7-9386-4b29-91ca-79e3f0027fc6'/>
 <h4>Apply for doctor</h4>
 <br>
-<div>you can apply for doctor rele </div>
+<div>you can apply for doctor role </div>
 <br>
 <img src = 'https://github.com/gaurv6944/medicare_app/assets/117128615/23bdf347-e9ee-4919-8ea0-4512382ac1b3'/>
 <h4>Profile page </h4>
