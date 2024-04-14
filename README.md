@@ -2,17 +2,17 @@
 <h3>decription</h3>
 <div>
   created a medicare app using mern stack.<br>
-  In this web app , using can book appointment for doctor and also can apply for doctor role.<br>
-  He can read check availibality of doctor .<br>
-  doctor can approve or reject the appointment <br>
-  similarly admin can approove the doctor role of user
+  In this web app , user can book appointment for a doctor and can also apply for doctor's role.<br>
+  He can check number of available doctors having speciality in their respective fields and can book an appointment for any doctor the patient wants .<br>
+  Also , the doctor can approve or reject the appointment request he got from the patient. <br>
+  Similarly admin can approve or reject the request from the user to become a doctor .
 </div>
 
 <h4>Register page</h4>
 <br>
 <img src = 'https://github.com/gaurv6944/medicare_app/assets/117128615/3a5a4d2e-1bb1-42e7-8fa4-b6a8599a64ff'/>
 
-<div>You are already registered it will generate a message that user already exist</div>
+<div> if You are already registered ,it will generate a message that user already exist</div>
 <h4>login page</h4>
 <br>
 <img src = 'https://github.com/gaurv6944/medicare_app/assets/117128615/ae4d25ed-4858-48ef-bbd0-b8839718cb02'
@@ -30,7 +30,7 @@ At home page , if you are user then you can see doctor available </div>
 <img src = 'https://github.com/gaurv6944/medicare_app/assets/117128615/23bdf347-e9ee-4919-8ea0-4512382ac1b3'/>
 <h4>Profile page </h4>
 <br>
-<div>use can see his profile </div>
+<div>user can see his profile </div>
 <br>
 <img src = 'https://github.com/gaurv6944/medicare_app/assets/117128615/885eea2b-c1a1-4d0b-82d0-dbe38731c690'/>
 <br>
